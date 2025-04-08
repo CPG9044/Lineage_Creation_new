@@ -1,0 +1,42 @@
+[{
+  "id":"001",
+  "user": "katherine.martie@thehartford.com",
+  "lineageFileCreationSessionID": "67890",
+  "password": "MVP1@123"
+},{
+"id": "002",
+    "user": "enchante.davis@thehartford.com",
+    "lineageFileCreationSessionID": "12345",
+    "password": "MVP1@123"
+},
+{
+  "id": "003",
+      "user": "angela.ahern@thehartford.com",
+      "lineageFileCreationSessionID": "12345",
+      "password": "MVP1@123"
+  },
+  {
+    "id": "004",
+        "user": "laura.vandivier@thehartford.com",
+        "lineageFileCreationSessionID": "12345",
+        "password": "MVP1@123"
+    },
+    {
+      "id": "005",
+          "user": "dharmateja.tummala@thehartford.com",
+          "lineageFileCreationSessionID": "12345",
+          "password": "MVP1@123"
+      },
+      {
+        "id": "006",
+            "user": "test",
+            "lineageFileCreationSessionID": "12345",
+            "password": "test"
+        },
+        {
+          "id": "007",
+              "user": "ritu.dhiria@thehartford.com",
+              "lineageFileCreationSessionID": "12345",
+              "password": "MVP1@123"
+          }
+]
